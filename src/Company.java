@@ -4,7 +4,7 @@
 public interface Company {
     String getName();
     Double getSalary();
-    Employee getEmployee(String n);
+//    Employee getEmployee(String n);
     String department();
     Double getSubordinateSalary();
 }
